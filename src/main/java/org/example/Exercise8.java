@@ -9,9 +9,6 @@ public class Exercise8 {
                 error -> System.out.println("Error happened")
         );
 
-
-
-
         System.out.println("Press any key :)");
         System.in.read();
     }

@@ -36,8 +36,6 @@ public class Exercise7 {
          );
 
 
-
-
         System.out.println("Press any key :)");
         System.in.read();
     }
